@@ -1,4 +1,4 @@
-import { techNotes, youtubeClone, mobile } from "./assets/img";
+import { techNotes, youtubeClone, mobile, imageResizer } from "./assets/img";
 
 export const projects = {
   fullStack: [
@@ -32,6 +32,14 @@ export const projects = {
       tools: ["React-Native"],
       github: "https://github.com/newman-afk/react-native-first.git",
       demo: "https://fuhuahu-react-native-taste.netlify.app/",
+    },
+    {
+      title: "Image Resizer",
+      description: "Your go-to desktop app for quickly resizing images.",
+      imgUrl: imageResizer,
+      tools: ["Electron"],
+      github: "https://github.com/newman-afk/electron.git",
+      demo: "https://github.com/newman-afk/electron#readme",
     },
   ],
 };

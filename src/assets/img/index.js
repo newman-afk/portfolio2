@@ -7,6 +7,7 @@ import github from "./github.svg";
 import techNotes from "./techNotes.png";
 import youtubeClone from "./youtube-clone.png";
 import mobile from "./mobile.png";
+import imageResizer from "./imageresizer.png";
 
 export {
   logo,
@@ -18,4 +19,5 @@ export {
   techNotes,
   youtubeClone,
   mobile,
+  imageResizer,
 };

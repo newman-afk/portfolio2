@@ -27,7 +27,7 @@ const Projects = () => {
                   <Nav.Link eventKey="second">Front-End</Nav.Link>
                 </Nav.Item>
                 <Nav.Item>
-                  <Nav.Link eventKey="third">Mobile</Nav.Link>
+                  <Nav.Link eventKey="third">Other</Nav.Link>
                 </Nav.Item>
               </Nav>
               <Tab.Content>
