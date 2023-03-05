@@ -8,6 +8,7 @@ import techNotes from "./techNotes.png";
 import youtubeClone from "./youtube-clone.png";
 import mobile from "./mobile.png";
 import imageResizer from "./imageresizer.png";
+import portfolio3d from "./3dportfolio.png";
 
 export {
   logo,
@@ -20,4 +21,5 @@ export {
   youtubeClone,
   mobile,
   imageResizer,
+  portfolio3d,
 };

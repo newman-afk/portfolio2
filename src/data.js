@@ -1,4 +1,10 @@
-import { techNotes, youtubeClone, mobile, imageResizer } from "./assets/img";
+import {
+  techNotes,
+  youtubeClone,
+  mobile,
+  imageResizer,
+  portfolio3d,
+} from "./assets/img";
 
 export const projects = {
   fullStack: [
@@ -21,6 +27,14 @@ export const projects = {
       tools: ["React", "Material-UI"],
       github: "https://github.com/newman-afk/YouTube-clone.git",
       demo: "https://fuhuahu-youtube-clone.netlify.app/",
+    },
+    {
+      title: "3D Portfolio",
+      description: "Experience immersive 3D on my website with ThreeJS.",
+      imgUrl: portfolio3d,
+      tools: ["React", "Tailwind CSS", "ThreeJs"],
+      github: "https://github.com/newman-afk/3d-portfolio.git",
+      demo: "https://rust-3d-portfolio.netlify.app/",
     },
   ],
   mobile: [
