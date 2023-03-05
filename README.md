@@ -4,13 +4,9 @@
 # Portfolio
 ![this is an image](https://github.com/newman-afk/portfolio2/blob/main/public/%E4%B8%8B%E8%BD%BD.png)
 ## How I made it?
-Made by following YouTube channel [JavaScript Mastery](https://youtu.be/0fYi8SGA20k)
+Made by following YouTube channel [webdecoded](https://youtu.be/hYv6BM2fWd8)
 <br/>
 ## How to Start?
 ```sh
 $ npm run dev
-```
-## How to deploy?
-```sh
-$ Make sure you add Environment variables : NPM_FLAGS , value : --legacy-peer-deps
 ```
